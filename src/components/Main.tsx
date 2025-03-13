@@ -18,6 +18,8 @@ function Main() {
                       <a href="https://www.linkedin.com/in/manoj-choudhary-204487243/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Manoj Choudhary</h1>
+          <h4>DEVELOPER & TECHNICAL ARTIST</h4>
+          
                   <p>Currently a college student specializing in game development. Skilled in C#, Unreal Engine, and technical artistry, with a passion for creating immersive gaming experiences.</p>
 
           <div className="mobile_social_icons">
